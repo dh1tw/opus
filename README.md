@@ -8,6 +8,10 @@ libopusfile.
 The C libraries and docs are hosted at https://opus-codec.org/. This package
 just handles the wrapping in Go, and is unaffiliated with xiph.org.
 
+**This branch is old, please use v2:**
+
+https://github.com/hraban/opus/tree/v2
+
 ## Details
 
 This wrapper provides a Go translation layer for three elements from the
